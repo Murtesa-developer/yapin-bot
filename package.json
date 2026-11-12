@@ -1,0 +1,26 @@
+{
+  "name": "yapper-community-bot",
+  "version": "1.0.0",
+  "description": "Yapin' bot: welcome messages, verification, tickets and leveling with a local SQLite database",
+  "author": "Murtesa Developer",
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "private": true,
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "check": "node scripts/check.js"
+  },
+  "files": [
+    "src",
+    "scripts",
+    "LICENSE",
+    "NOTICE",
+    "README.md",
+    ".env.example"
+  ]
+}

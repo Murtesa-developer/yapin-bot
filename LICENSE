@@ -1,0 +1,139 @@
+Yapin/YAPPER COMMUNITY BOT - PROPRIETARY COMMERCIAL USE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Murtesa Developer. All rights reserved.
+
+This software is licensed, not sold. By installing, running, deploying or
+otherwise using the Software you agree to the terms below. If you do not agree,
+do not use the Software.
+
+1. DEFINITIONS
+
+"Software"   means Yapper Community Bot, including all source code, scripts,
+             configuration templates, documentation, and any updates or
+             derivative works of them, in any form.
+"Licensor"   means Murtesa Developer, the author and copyright owner.
+"Licensee"   means the person or entity that received the Software from the
+             Licensor, or from a party the Licensor authorized.
+"Customer"   means a third party (a community owner, server owner, business or
+             organization) for whom or on whose behalf the Licensee deploys,
+             operates or provides the Software as a bot or related service.
+"Source Code" means the human-readable form of the Software, including every
+             .js, .json, .env.example and script file and any readable
+             derivative of them.
+
+2. GRANT OF LICENSE
+
+Subject to these terms, the Licensor grants the Licensee a non-exclusive,
+non-transferable, non-sublicensable, revocable, worldwide license to:
+
+  (a) install and run the Software for the Licensee's own communities and
+      servers; and
+
+  (b) deploy and operate the Software for Customers, and charge Customers fees
+      for that deployment, setup, hosting, management and support service,
+      keeping all revenue the Licensee earns from those fees.
+
+3. PROTECTION OF SOURCE CODE
+
+The Source Code is a trade secret and confidential property of the Licensor.
+The Licensee and any person receiving the Software or a service from it shall
+not, and shall not permit anyone else to:
+
+  (a) copy, publish, post, share, leak, or otherwise disclose the Source Code,
+      in whole or in part, to anyone (including Customers);
+  (b) give Customers access to the Source Code. Customers receive the
+      operation of the Software as a service and never the Source Code itself,
+      unless the Licensor has agreed in writing;
+  (c) modify, adapt, translate, or create derivative works of the Software;
+  (d) decompile, deobfuscate, reverse engineer, or attempt to extract or
+      rebuild the Source Code, except to the extent the law forbids this
+      restriction;
+  (e) sell, resell, rent, lease, lend, sublicense, or distribute the Software
+      itself, as a product, package, template, download, or repository,
+      separate from a deployment service described in Section 2(b);
+  (f) upload the Software to a public or shared code host, package registry,
+      marketplace, or file-sharing service;
+  (g) use the Software or any part of it to build, train, or market a
+      competing or substantially similar product;
+  (h) remove, hide or alter any copyright, license, or proprietary notice in
+      the Software.
+
+The Licensee must keep the Source Code secure, limit access to those who need
+it to perform the services in Section 2, and notify the Licensor promptly of
+any suspected unauthorized access or disclosure.
+
+4. CUSTOMER DEPLOYMENTS
+
+The Licensee is responsible for every Customer deployment and for ensuring that
+each is operated in line with these terms. The Licensee must not hand a Customer
+a copy of the Software or its Source Code. Every Customer agreement must make
+clear that the Software belongs to the Licensor and that the Customer gets no
+rights in it. The Licensee is liable to the Licensor for any breach caused by a
+Customer's access to the Software that the Licensee allowed.
+
+5. OWNERSHIP
+
+The Software, its design, structure and all intellectual property rights in it
+belong exclusively to the Licensor. No ownership rights are transferred. All
+rights not expressly granted are reserved. Feedback and suggestions the Licensee
+gives about the Software may be used by the Licensor freely and without
+obligation.
+
+6. THIRD-PARTY SERVICES AND NAMES
+
+The Software connects to third-party platforms such as Yapin' (yapper.website).
+Those platforms and their names belong to their owners, are not part of the
+Software, and are governed by their own terms, which the Licensee must follow.
+The Licensor is not affiliated with those platforms unless stated otherwise.
+No right to use the Licensor's name or marks is granted, except to truthfully
+state that the Licensee uses software by Murtesa Developer.
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE LICENSOR DOES NOT WARRANT
+THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR COMPATIBLE WITH FUTURE
+CHANGES TO THIRD-PARTY PLATFORMS.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR LOST
+PROFITS, REVENUE, DATA OR GOODWILL, ARISING FROM OR RELATED TO THE SOFTWARE OR
+THIS LICENSE, EVEN IF ADVISED OF THEIR POSSIBILITY. THE LICENSOR'S TOTAL
+LIABILITY SHALL NOT EXCEED THE AMOUNT THE LICENSEE PAID THE LICENSOR FOR THE
+SOFTWARE IN THE TWELVE MONTHS BEFORE THE CLAIM, OR ZERO IF NOTHING WAS PAID.
+THE LICENSEE IS SOLELY RESPONSIBLE FOR ITS AGREEMENTS WITH, AND SERVICES TO, ITS
+CUSTOMERS, AND AGREES TO INDEMNIFY THE LICENSOR AGAINST CLAIMS BY CUSTOMERS OR
+OTHER THIRD PARTIES ARISING FROM THE LICENSEE'S DEPLOYMENTS OR BREACH OF THIS
+LICENSE.
+
+9. TERM AND TERMINATION
+
+This license lasts until terminated. It ends automatically, without notice, if
+the Licensee breaches any term of this license. The Licensor may also terminate
+it at any time by written notice. On termination the Licensee must stop using
+the Software and permanently delete all copies of it and its Source Code,
+including copies held for Customers. Sections 3, 5, 7, 8, 9 and 10 survive
+termination.
+
+10. GENERAL
+
+  (a) Remedies: a breach of Section 3 or 5 would cause the Licensor harm that
+      money cannot fully repair, so the Licensor may seek an injunction and
+      other equitable relief in addition to any other remedy.
+  (b) Governing law: this license is governed by the laws of the jurisdiction
+      where the Licensor resides, without regard to conflict-of-law rules.
+  (c) Entire agreement: this license is the whole agreement about the Software.
+      Changes must be in writing and signed by the Licensor.
+  (d) Severability: if a provision is unenforceable, the rest stays in effect.
+  (e) No waiver: a delay or failure to enforce a right is not a waiver of it.
+  (f) Assignment: the Licensee may not assign this license without the
+      Licensor's written consent. The Licensor may assign it freely.
+
+Questions, permission requests and notices go to the Licensor (Murtesa
+Developer) through the channel where the Software was obtained.
+
+Copyright (c) 2026 Murtesa Developer. All rights reserved.

@@ -1,0 +1,17 @@
+Yapin/Yapper Community Bot
+Copyright (c) 2026 Murtesa Developer. All rights reserved.
+
+This software is proprietary and confidential. It is licensed under the
+Yapper Community Bot Proprietary Commercial Use License (see the LICENSE file).
+
+Unauthorized copying, disclosure, modification or distribution of this software
+or its source code, via any medium, is strictly prohibited.
+
+Licensees may deploy and operate this software for their customers and charge
+fees for that service, but may not share, sell, or hand over the source code.
+
+Third-party components: none. This software has zero npm dependencies and uses
+only the built-in features of Node.js.
+
+"Yapin'" and "yapper.website" belong to their respective owners and are
+referenced only to describe compatibility.
